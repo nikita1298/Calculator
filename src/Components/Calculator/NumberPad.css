@@ -1,0 +1,14 @@
+.btnR{
+    border-radius: 0px !important;   
+    border: 1px solid rgb(230, 229, 229);
+}
+
+
+.col{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.c{
+    font-size: 50px;
+}
